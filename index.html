@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BPO / Project Harmony Accenture Team Directory</title>
+    <!-- Link to the CSS stylesheet -->
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <!-- Main header for the entire page -->
+    <header class="page-header">
+        <h1>BPO / Project Harmony Accenture Team Directory</h1>
+        <button id="admin-login-btn" style="position: absolute; top: 10px; right: 10px; padding: 5px 10px;">Admin Login</button>
+    </header>
+
+    <!-- Container for the navigation tabs -->
+    <nav class="tab-navigation">
+        <!-- Tabs will be dynamically inserted here by JavaScript -->
+        <!-- Example of how a tab button might look:
+        <button class="tab-button active" data-workstream="P2P">Procure to Pay (P2P)</button>
+        -->
+    </nav>
+
+    <!-- Admin Controls Area -->
+    <div id="admin-controls-container" class="admin-controls" style="display: none; padding: 10px; background-color: #f0f0f0; margin-bottom: 15px; border: 1px solid #ccc;">
+        <h2>Admin Mode</h2>
+        <button id="add-person-btn">Add New Person</button>
+        <!-- More admin buttons can be added here later -->
+
+        <!-- Add/Edit Person Form (hidden by default) -->
+        <div id="add-edit-person-form-container" style="display: none; margin-top: 20px; padding: 15px; border: 1px dashed #999;">
+            <h3 id="form-title">Add New Person</h3>
+            <form id="person-form">
+                <input type="hidden" id="person-id" name="id"> <!-- For editing existing person -->
+                
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="Name" required><br><br>
+
+                <label for="role">Role:</label>
+                <input type="text" id="role" name="Role" required><br><br>
+
+                <label for="workstream">Workstream:</label>
+                <select id="workstream" name="Workstream" required>
+                    <!-- Options will be populated by JS or manually listed if static -->
+                    <option value="Procure to Pay (P2P)">Procure to Pay (P2P)</option>
+                    <option value="Master Data Management (MDM)">Master Data Management (MDM)</option>
+                    <option value="Order to Cash (O2C)">Order to Cash (O2C)</option>
+                    <option value="Record to Report (R2R)">Record to Report (R2R)</option>
+                    <option value="Supply Chain Management (SCM)">Supply Chain Management (SCM)</option>
+                    <option value="Hydrocarbon Accounting (HCA)">Hydrocarbon Accounting (HCA)</option>
+                </select><br><br>
+
+                <label for="location">Location:</label>
+                <input type="text" id="location" name="Location"><br><br>
+
+                <label for="bio">Bio:</label>
+                <textarea id="bio" name="Bio"></textarea><br><br>
+
+                <label for="working-style">Working Style:</label>
+                <textarea id="working-style" name="Working Style"></textarea><br><br>
+
+                <label for="fun-fact">Fun Fact:</label>
+                <textarea id="fun-fact" name="Fun Fact"></textarea><br><br>
+
+                <label for="photo-file">Photo Filename (e.g., john_doe.jpg):</label>
+                <input type="text" id="photo-file" name="PhotoFile">
+                <small>Ensure the image is uploaded to the 'images/Photo Directory/' folder.</small><br><br>
+                
+                <!-- Actual file upload input - for future backend integration -->
+                <label for="image-upload">Upload Image (Optional):</label>
+                <input type="file" id="image-upload" name="imageUpload" accept="image/*"><br><br>
+
+                <button type="submit">Save Person</button>
+                <button type="button" id="cancel-form-btn">Cancel</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Main content area where team members will be displayed -->
+    <main id="team-content-area" class="team-content-area">
+        <!-- Content for the selected tab will be dynamically inserted here -->
+        <!-- This will include the workstream header and the team member tiles -->
+    </main>
+
+    <!-- Modal for displaying detailed information about a team member -->
+    <div id="person-modal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close-button">&times;</span>
+            <!-- Detailed information will be populated here by JavaScript -->
+            <div id="modal-details"></div>
+        </div>
+    </div>
+
+    <!-- Link to the JavaScript file -->
+    <!-- This script is responsible for loading data and building the page content -->
+    <script src="data/team_data.js"></script>
+    <script src="scripts/populate_team.js"></script>
+    <!-- Script for admin functionalities -->
+    <script src="admin.js"></script>
+    
+    <script>
+        // Function to scroll to the top of the page
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+        
+        // Show the button when user scrolls down 20px from the top
+        window.onscroll = function() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("jumpToTopBtn").style.display = "block";
+            } else {
+                document.getElementById("jumpToTopBtn").style.display = "none";
+            }
+        };
+    </script>
+    
+    <!-- Jump to Top Button -->
+    <button onclick="scrollToTop()" id="jumpToTopBtn" title="Go to top">↑</button>
+</body>
+</html>
