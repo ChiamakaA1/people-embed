@@ -22,11 +22,12 @@ body {
 
 /* Tab Navigation Styling */
 .tab-navigation {
-    display: flex; /* Arranges tabs in a row */
-    justify-content: center; /* Centers the tabs */
+    display: flex;
+    justify-content: center;
     background-color: #009Ef2; /* Secondary color for tab navigation background */
     padding: 10px 0;
-    flex-wrap: wrap; /* Allows tabs to wrap on smaller screens */
+    flex-wrap: nowrap; /* Prevent tabs from wrapping to the next line */
+    overflow-x: auto;  /* Allow horizontal scrolling if too many tabs */
 }
 
 .tab-button {
@@ -418,4 +419,23 @@ body.admin-mode-on .person-tile .tile-admin-buttons {
     margin-top: -8px; /* Adjust to be closer to the input */
     margin-bottom: 10px;
 }
+
+/* Importing React and PnPjs for data fetching */
+import * as React from 'react';
+import { sp } from "@pnp/sp/presets/all";
+import "@pnp/sp/webs";
+import "@pnp/sp/lists";
+import "@pnp/sp/items";
+
+export const PeopleDirectory: React.FC = () => {
+  const [teamData, setTeamData] = React.useState<any[]>([]);
+
+  React.useEffect(() => {
+    sp.web.lists.getByTitle("Team Directory").items.getAll().then(items => {
+      setTeamData(items);
+    });
+  }, []);
+
+  // ...rest of your component, use teamData instead of TEAM_DATA
+};
 

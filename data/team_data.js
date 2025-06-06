@@ -3,9 +3,9 @@ window.TEAM_DATA = [
 
   {
     "Name": "Manish Chandra Pachauli",
-    "Location": "JAIPUR INDIA",
+    "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "TOWER LEAD - P2P",
+    "Role": "Tower Lead",
     "Bio": "I have overall 18+ years of experience in Finance and Accounting and have been associated with Accenture for more than 10 years in Procure to Pay, Taxation, MDM and Supply Chain operations. I am experienced in conducting audits and collecting and validating the required inputs and driving Continuous Improvement Project",
     "Working Style": "I like to work on result-oriented approaches, and it gives me motivation when my efforts and outcome are recognized.",
     "Fun Fact": "I love to listen slow music and spend time with my kids during my free time."
@@ -14,7 +14,7 @@ window.TEAM_DATA = [
     "Name": "Shubham Pareek",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Supervisor  - I'm working as a lead for \"Payments, Report and Reconciliation, Expense Management and Client Experience\" activities.",
+    "Role": "Lead for Payments, Report and Reconciliation, Expense Management and Client Experience activities.",
     "Bio": "12 Years of experience in managing the P2P process along with MDM/ VDM/ IP & Travel and Expense processes of large-scale industries",
     "Working Style": "I like to work with team members as a collaborative work with the working hours from 7:30 AM MST",
     "Fun Fact": "I love to play volleyball, cricket and also loves bike riding"
@@ -23,7 +23,7 @@ window.TEAM_DATA = [
     "Name": "Kratika Sharma",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "Procure to Pay Operations Senior Analyst- Working as US IP team Lead.",
+    "Role": "US IP Team Lead.",
     "Bio": "I have 06+ years of experience in Accounts Payable Validation of Invoices, with different Regions as per entities. Managed the A/P processing of PO and Non-PO Invoices in SAP. Worked on ageing invoices and shared an ageing report on daily. Processing Intercompany invoices and Support handle issues. Resolving Invoice queries with supplier through emails. Exception handling of Invoices as per client’s/supplier requirements.",
     "Working Style": "7:30 A.M MST-4:30 P.M MST",
     "Fun Fact": "I love to sit alone near by the sea or ocean."
@@ -41,34 +41,34 @@ window.TEAM_DATA = [
     "Name": "Chirag Gupta",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I have 4.5 years of experience in P2P tower. Here working for Reconciliation and Reporting team to ensure all activities complete on time",
     "Working Style": "7.30 AM MST to 4.30 AM MST",
     "Fun Fact": "Reading Books, Travelling"
   },
   {
-    "Name": "mushkan pachori",
-    "Location": "jaipur",
+    "Name": "Mushkan Pachori",
+    "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst under Reconciliation and Reporting Team.",
+    "Role": "Analyst",
     "Bio": "I have been working in the P2P space for more than 1year in the invoice processing and workflow. Here working for Reconciliation and Reporting.",
     "Working Style": "7:30 a.m. (MST) to 4:30 p.m. (MST)",
     "Fun Fact": "Dance, travel and reading spiritual stories & books."
   },
   {
-    "Name": "ROHIT GUPTA",
+    "Name": "Rohit Gupta",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst_invocie processing",
+    "Role": "Analyst",
     "Bio": "I have been working in the P2P space for 3 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes. I try to collaborate with team to resolve the task and try to make the process smooth by sharing the lean ideas and time saving.",
     "Working Style": "I prefer to work in home rather than at office to put 100% attention on work. My way of working is based on proactive nature where I try to seek every individual detail regarding the work before finishing it. I would like to have the feedback in1:1 rather than in group settings.",
     "Fun Fact": "Travel and take pictures of environment or something unique which can be remembered later on."
   },
   {
     "Name": "Honey Nanwani",
-    "Location": "jaipur",
+    "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the P2P space for 3 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.'",
     "Working Style": "7.30 AM MST to 4.30 P.M MST",
     "Fun Fact": "reading books and playing volly ball"
@@ -77,7 +77,7 @@ window.TEAM_DATA = [
     "Name": "Aman Saxena",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "Procure to Pay Operations Associate",
+    "Role": "Operations Associate",
     "Bio": "I have total experience 3 year in different domin. \nAs 1.8 in Compliance and tax and 1.10 in P2P domin.",
     "Working Style": "7.30 AM MST to 4.30 PM MST",
     "Fun Fact": "Reading book and travelling"
@@ -86,8 +86,8 @@ window.TEAM_DATA = [
     "Name": "PRAKASH SAINI",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst_US Invoice Processing",
-    "Bio": "I have done my M.COM. I got three years of working experience in corporate world. My hobbies are hardworking and self-motivated.",
+    "Role": "Analyst",
+    "Bio": "BPO-ACN-P2P-Analyst_US Invoice ProcessingI have done my M.COM. I got three years of working experience in corporate world. My hobbies are hardworking and self-motivated.",
     "Working Style": "I consistently prioritize my office work and readily adapt to any work-related situation. I always ensure my tasks are completed and up-to-date. I am striving to become a valued and outstanding member of my manager's team.",
     "Fun Fact": "I consider myself a good chess player. I have a good rapport with my colleagues and I spend my free moments with my family."
   },
@@ -95,8 +95,8 @@ window.TEAM_DATA = [
     "Name": "Sandeep Jangid",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst under Reconciliation and Reporting Team",
-    "Bio": "I have been working in P2P space for more than 1.5 years. Here working under the Reconciliation and Reporting.",
+    "Role": "Analyst",
+    "Bio": "Working under Reconciliation and Reporting Team. I have been working in P2P space for more than 1.5 years. Here working under the Reconciliation and Reporting.",
     "Working Style": "7:30a.m. (MST) to 4:30 p.m. (MST)",
     "Fun Fact": "Watching and playing Cricket."
   },
@@ -105,42 +105,42 @@ window.TEAM_DATA = [
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
     "Role": "Operations Associate",
-    "Bio": "I have been working in the P2P   for 6 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes .",
+    "Bio": "I have been working in the P2P for 6 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes .",
     "Working Style": "My shift timing is 7pm - 430 am. I am all available between this time.",
     "Fun Fact": "I love to go for outing in weekend ."
   },
   {
-    "Name": "MANOJ TAWANIYA",
+    "Name": "Manoj Tawaniya",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst-Canada Payments",
-    "Bio": "I am working in P2P for more than 1 year and worked closely with my team to solve problems.",
+    "Role": "Analyst",
+    "Bio": "Working as an Analyst in Canada Payments. I am working in P2P for more than 1 year and worked closely with my team to solve problems.",
     "Working Style": "I like to take break each one and half hour after for 5 minutes for better productivity.",
     "Fun Fact": "Watch web series on weekends."
   },
   {
     "Name": "Yogesh Prajapat",
-    "Location": "Jaipur, India",
+    "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Supervisor",
+    "Role": "Supervisor",
     "Bio": "I have more then 8+ years of experience in managing service delivery for Procure to pay (P2P) across various industries. I have deep expertise in P2P cycle and Invoice processing with accurate reporting. I hold master's in commerce degree in Accounting and have multiple certifications in P2P. I have strong expertise in leading various Continuous Improvements and Transformation Projects. I am also lean certified for the multiple transformation and apply automation into the process to eliminate to time consuming activities.",
     "Working Style": "I like work together within the team.",
     "Fun Fact": "I love to play cricket."
   },
   {
-    "Name": "RASHMI CHOUHAN",
+    "Name": "Rashmi Chouhan",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst_Invoice Processing US",
-    "Bio": "I have been working in the P2P space for past 1 plus year and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.",
+    "Role": "Analyst",
+    "Bio": "Working in Invoice Processing US. I have been working in the P2P space for past 1 plus year and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.",
     "Working Style": "My Office timings is 7:00 P.M. to 4:30 A.M. IST and available only in this time. Apart from that the rest of the time I like spending with family.",
     "Fun Fact": "I love to do yoga and reading books, watching meaningful documentaries and exploring nature."
   },
   {
-    "Name": "SHIPRA SINHA",
+    "Name": "Shipra Sinha",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst_Invoice processing US",
+    "Role": "Analyst",
     "Bio": "I have been working in the P2P space for 5 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes. I try to collaborate with team to resolve the critical task and try to make the process smooth by sharing the lean ideas .",
     "Working Style": "I prefer to work in office rather than at home to put 100% attention on work. My way of working is based on proactive nature where I try to seek every individual detail regarding the work before finishing it. I would like to have the feedback in1:1 rather than in group settings.",
     "Fun Fact": "I love to travel spiritual/divine places and take pictures of same or the surroundings or something unique which can be remembered later on."
@@ -149,7 +149,7 @@ window.TEAM_DATA = [
     "Name": "Rakesh Kumar",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "P2P Payment Analyst.",
+    "Role": "Analyst",
     "Bio": "I have been working in the P2P for 6 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.",
     "Working Style": "I would love to work between 12:00 PM to 2:00 AM to manage work life balance.",
     "Fun Fact": "Sleeping Well and watching movies on weekends."
@@ -158,7 +158,7 @@ window.TEAM_DATA = [
     "Name": "Prabhat Soni",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "Expense Management Team",
+    "Role": "Analyst",
     "Bio": "I have been working in the P2P for last four years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which as helped me understand the intricacies of our processes.",
     "Working Style": "Preferred timing is 12 PM to 1 AM.",
     "Fun Fact": "Sleeping well and watching movies on weekends."
@@ -167,16 +167,16 @@ window.TEAM_DATA = [
     "Name": "Mukesh Mishra",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I have more than 2 years of work experience in P2P.",
     "Working Style": "7:30 p.m (MST) to 4:30 a.m. (MST).",
     "Fun Fact": "Watching and playing Cricket."
   },
   {
-    "Name": "Soni dheeraj Kumar",
+    "Name": "Soni Dheeraj Kumar",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-ANALYST",
+    "Role": "Analyst",
     "Bio": "I have 5 years of experience in core Accounts payable domain, I have hands on Invoice processing, payments and helpdesk.",
     "Working Style": "I am a team-oriented person however likes getting feedback 1:1. 07:00 MST to 04:30 MST",
     "Fun Fact": "I have passionate photographer"
@@ -185,7 +185,7 @@ window.TEAM_DATA = [
     "Name": "Himanshu Kalwani",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "P2P-Analyst.",
+    "Role": "Analyst.",
     "Bio": "I have worked for 2.5 years in P2P domain I have been involved in IP team doing PO, NON-PO and Urgent approval base invoices for the client under the approved SLA.",
     "Working Style": "I am currently working from office at my base location",
     "Fun Fact": "I have hobby of playing cricket at weekends"
@@ -194,7 +194,7 @@ window.TEAM_DATA = [
     "Name": "Vishnu Mishra",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "More than 2 years of experience in P2P domain. successfully hendled invoice processing like PO, Non-Po invoice and intercompany invoice processing, credit note processing also experience in how to handle aged document and PO reconciliation and querry resolution.",
     "Working Style": "I occasionally step away for personal errands during the day but will always communicate my availability in advance.",
     "Fun Fact": "Love to listioning music, outing with friends."
@@ -203,16 +203,16 @@ window.TEAM_DATA = [
     "Name": "Gaurav Rawat",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I am a fresher, I have a background in accounting and finance, which has helped me understand the intricacies of our process.",
     "Working Style": "I’m most productive in the evening, so I try to schedule focused work during that time.",
     "Fun Fact": "I like playing basketball."
   },
   {
     "Name": "Aryan Jain",
-    "Location": "jaipur",
+    "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst_Invoice Processing US",
+    "Role": "Analyst",
     "Bio": "i have been working in a CA Firm from last 3 years and join this deal as a fresher",
     "Working Style": "i prefer working in morning shifts",
     "Fun Fact": "i love dancing"
@@ -221,7 +221,7 @@ window.TEAM_DATA = [
     "Name": "Naresh Sharma",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I am a fresher in PTP and enjoy taking new responsibilities and solve complex problems. I have a educational background in accounting and finance and business administration, which has helped me understand the intricacies of our processes.",
     "Working Style": "I enjoy a collaborative environment and am always open to brainstorming sessions or quick syncs when needed.",
     "Fun Fact": "I like listening to different type of music sometimes in different language also."
@@ -230,7 +230,7 @@ window.TEAM_DATA = [
     "Name": "Himanshu Gautam",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I am a fresher in PTP and enjoy taking new responsibilities and solve complex problems. I have an educational background in accounting and finance and currently pursuing ACCA which has helped me understand the intricacies of our processes.",
     "Working Style": "I prefer to over-communicate rather than assume, so I’ll often share updates even if there’s no major progress yet.",
     "Fun Fact": "Indoor gardening, Travelling"
@@ -248,7 +248,7 @@ window.TEAM_DATA = [
     "Name": "Lalit Kumar Lakhpatani",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst_Invoice Processing US",
+    "Role": "Analyst",
     "Bio": "I have previous experience of P2P in my last organization. Before this I was working in a different deal within Accenture and recently got the opportunity to move to the current deal.",
     "Working Style": "I am always available during the shift hours and I avoid taking leaves until it's an emergency. I always feel that the feedbacks should be shared 1:1 rather than in open forums.",
     "Fun Fact": "Riding bikes, Spending time with the family and friends."
@@ -257,25 +257,25 @@ window.TEAM_DATA = [
     "Name": "Sanjay Prajapat",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in P2P for last 1 year.",
     "Working Style": "I need a break after complete my task.",
     "Fun Fact": "I like to watch movies on the weekends and spends time with family."
   },
   {
     "Name": "Monika Arora",
-    "Location": "Calgary: 240 - 4th Ave SW",
+    "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in PTP for 2 years and enjoy collaborating with my team to solve complex problems. I have background in accounting and finance, which has helped me understanding the intricacies of our processes.",
     "Working Style": "Prefer to work in morning shifts and prefer to work from home because at home I do more productive work.",
     "Fun Fact": "I love playing badminton"
   },
   {
     "Name": "Ameesha Pareek",
-    "Location": "jaipur",
+    "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "I’m learning how the end-to-end procurement and payment cycle works, from handling vendor invoices to ensuring timely payments. Every day brings a new opportunity to understand the process better and contribute to my team. I’m excited to grow my skills and make a meaningful impact.",
     "Working Style": "I occasionally step away for personal errands during the day but will always communicate my availability in advance.",
     "Fun Fact": "I love to go hiking on the weekends and play badminton."
@@ -284,7 +284,7 @@ window.TEAM_DATA = [
     "Name": "Rohit Khatod",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst_Invoice Processing US",
+    "Role": "Analyst",
     "Bio": "Leveraging 2.5 years of expertise in P2P, including [Oracal, Tally, GST& Income TAX].",
     "Working Style": "Work from home as well as office",
     "Fun Fact": "Watching movies"
@@ -293,7 +293,7 @@ window.TEAM_DATA = [
     "Name": "Vikash Choudhary",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "Seasoned professional with two years of experience in accounting. Expert in accounts payable. Identifying discrepancies and resolving issues.",
     "Working Style": "I occasionally step away for personal errands during the day but will always communicate my availability in advance.",
     "Fun Fact": "I love to play cricket on weekends."
@@ -311,7 +311,7 @@ window.TEAM_DATA = [
     "Name": "Priyanshi Gupta",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "P2P - Analyst",
+    "Role": "Analyst",
     "Bio": "I am a finance and accounting professional with over 3 years of experience, specializing in delivering critical financial operations. My expertise includes working on SOX controls, third party payments, month-end close activities, and other key accounting processes. I hold a certification in SAP FICO and am proficient in Advanced Excel and Power BI, enabling me to analyze data efficiently and support informed decision-making. With a strong foundation in financial systems and controls, I am committed to accuracy, compliance, and continuous improvement in all aspects of my work.",
     "Working Style": "I work best with a mix of collaborative sessions and focused independent time. Also, I like to work in creative and supportive environment where everyone's input is respected and valued.",
     "Fun Fact": "I love loud music and play badminton on the weekends."
@@ -320,16 +320,16 @@ window.TEAM_DATA = [
     "Name": "Dheeraj Sharma",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "P2P - Analyst",
+    "Role": "Analyst",
     "Bio": "I am a finance and accounting professional with over 3 years of experience, specializing in delivering critical financial operations. My expertise includes working on SOX controls, third party payments, month-end close activities, and other key accounting processes. I hold a certification in SAP FICO and am proficient in Advanced Excel and Power BI, enabling me to analyze data efficiently and support informed decision-making. With a strong foundation in financial systems and controls, I am committed to accuracy, compliance, and continuous improvement in all aspects of my work.",
     "Working Style": "I work best with a mix of collaborative sessions and focused independent time. Also, I like to work in creative and supportive environment where everyone's input is respected and valued.",
     "Fun Fact": "I like to listen music and explore new places."
   },
   {
-    "Name": "SAGAR SAGAR",
+    "Name": "Sagar Sagar",
     "Location": "jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst_Invoice Processing US",
+    "Role": "Analyst",
     "Bio": "I Have joined this deal as a fresher and looking forward to learnt while working",
     "Working Style": "I preferred afternoon shift. I like to work from home",
     "Fun Fact": "playing cricket and reading to books"
@@ -338,7 +338,7 @@ window.TEAM_DATA = [
     "Name": "Deepak Kumar",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst-Canada Payment",
+    "Role": "Analyst",
     "Bio": "I have just started working in P2P and I enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.",
     "Working Style": "I am most productive in the morning, so I like to focus on high priority tasks early in the day.",
     "Fun Fact": "Playing Cricket and Football, Listening Song"
@@ -356,7 +356,7 @@ window.TEAM_DATA = [
     "Name": "Faiz Rizvi",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "Hello my name is Faiz Rizvi and I am fresher and I have completed graduation in accounting background  which has helped me understand the intricacies of our processes.'",
     "Working Style": "I like working in a quiet place",
     "Fun Fact": "I like to playing cricket on the weekend"
@@ -383,7 +383,7 @@ window.TEAM_DATA = [
     "Name": "Mufaddal Zabuawala",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst",
+    "Role": "Analyst",
     "Bio": "My name is mufaddal zabuawala, I have been working as business financial professional working in business financial shared business with over 2 years of experience as as P2P Accounts payable associate at Tata Consultancy Services. In my previous role I was actively engaged in both production and Quality control operations, specializing in the resolution and processing of disputed invoices. I also contributed to internal compliance by ensuring process accuracy and adherence to control standards as part of quality control team.\n\nI hold a Bachelor of Business Administration with major in finance and I have completed multiple online certifications in data analytics and also currently pursuing industry recognized certification in finance to deepen my financial acumen.\n\nI also hold hands-on experience with industry-standard tools and platforms including SAP S/4 Hana, Opentext, IBM Zephyr/legacy Applications, Ms access and MS tools.",
     "Working Style": "I value structured, control-focused p2p environment supported by well - documented SLAs, SOPs and DTPs. I prefer regular weekly status calls and ad-hoc check-ins as needed, with communication primarily through email and ms teams.\n\nI am most efficient working in cross - functional teams as well it expands my horizon of learning and growth. I would like to actively collaborate with colleagues to help build and refine processes to ensure accuracy, efficiency and compliance in process.\n\nI'm comfortable working with any industry-standard tools that enhance operational effectiveness and will be able to deliver the result as per business need. but preference would be SAP S/4 Hana definitely.\n\nmy preferred working model is hybrid, while maintaining strong team collaboration and accountability.",
     "Fun Fact": "Outside of work, I enjoy reading finance blogs, global markets and enjoying learning new tech stack, tools to be relevant in market and occasionally trying out solo travel to ancient and nature rich places, would loves to watch sci-fi movies and documentaries."
@@ -392,16 +392,16 @@ window.TEAM_DATA = [
     "Name": "Ayushi Nair",
     "Location": "Jaipur",
     "Workstream": "Master Data Management (MDM)",
-    "Role": "BPO-ACN-MDM-Analyst",
+    "Role": "Analyst",
     "Bio": "I have around 1.5 year of experience in core accounts payable domain, and hands on Invoice processing, Vendor management.",
     "Working Style": "I am a team player liked to collaborate with peers and I am passionate working on excel & reports. 7:30 MST to 04:30 MST",
     "Fun Fact": "I loved to play Volleyball."
   },
   {
-    "Name": "MOHAMMED BILAL",
+    "Name": "Mohammed Bilal",
     "Location": "Jaipur",
     "Workstream": "Master Data Management (MDM)",
-    "Role": "BPO-ACN-MDM-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the P2P space for 2 years and enjoy collaborating with my team to solve complex problems. I have a background in OTC MDM, which has helped me understand the intricacies of our processes. I try to collaborate with team to resolve the critical task and try to make the process smooth by sharing the lean ideas.",
     "Working Style": "I prefer to work in office rather than at home to put 100% attention on work. My way of working is based on proactive nature where I try to seek every individual detail regarding the work before finishing it. I would like to have the feedback in1:1 rather than in group settings.",
     "Fun Fact": "I love to play cricket."
@@ -410,7 +410,7 @@ window.TEAM_DATA = [
     "Name": "Sarfrazuddin Gouri",
     "Location": "Jaipur",
     "Workstream": "Master Data Management (MDM)",
-    "Role": "BPO-ACN-MDM-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the PTP space for 3 years and enjoy collaborating with my team to solve complex problems. I have a background in OTC as well and have worked and prepared different reports and worked on process data to enhance process activities.",
     "Working Style": "I prefer to work in office rather than at home to put 100% attention on work. My way of working is based on proactive nature where I try to seek every individual detail regarding the work before finishing it. I would like to have the feedback in1:1 rather than in group settings.",
     "Fun Fact": "Playing football"
@@ -426,7 +426,7 @@ window.TEAM_DATA = [
   },
   {
     "Name": "Ramesh Jayaram",
-    "Location": "Bengaluru India",
+    "Location": "Bengaluru",
     "Workstream": "Supply Chain Management (SCM)",
     "Role": "Buyer - Req to PO for Commercials, Terminals, Retail and refinery",
     "Bio": "I have 15 years of experience is supply chain management, including sourcing, contracting, catalog, commodity Management and Category support.",
@@ -435,7 +435,7 @@ window.TEAM_DATA = [
   },
   {
     "Name": "Sushmitha S Kumar",
-    "Location": "Bengaluru (India)",
+    "Location": "Bengaluru",
     "Workstream": "Supply Chain Management (SCM)",
     "Role": "Procurement Practice Analyst",
     "Bio": "I have been working in procurement for 4.9 years and I have a background of creating PO, vendor creation, invoicing which has helped me understand the process",
@@ -443,7 +443,7 @@ window.TEAM_DATA = [
     "Fun Fact": "I love playing badminton and cricket"
   },
   {
-    "Name": "JYOTHI Kumar",
+    "Name": "Jyothi Kumar",
     "Location": "Bangalore",
     "Workstream": "Supply Chain Management (SCM)",
     "Role": "Buyer Req-Po",
@@ -464,16 +464,16 @@ window.TEAM_DATA = [
     "Name": "Shruthi N Shruthi N",
     "Location": "Bengaluru",
     "Workstream": "Supply Chain Management (SCM)",
-    "Role": "BPO-ACN-SCM-Analyst",
+    "Role": "Analyst",
     "Bio": "I am having 9 years of experience in procurement operations, purchase orders, goods receipt, Vendor onboarding, PO creations, Order expediting, Team management, and Material master management processes.",
     "Working Style": "Values collaboration and teamwork, often helping others to achieve common goals.",
     "Fun Fact": "I would like to spend the time with my Son."
   },
   {
-    "Name": "SRINIDHI D R",
+    "Name": "Srinidhi D R",
     "Location": "Bangaluru",
     "Workstream": "Supply Chain Management (SCM)",
-    "Role": "BPO-ACN-SCM-Supervisor",
+    "Role": "Supervisor",
     "Bio": "I have been working in the PTP for 9 years and I have a background in accounting and finance, which has helped me to better understand the process.",
     "Working Style": "Works well in teams, valuing input from others and fostering a positive work environment.",
     "Fun Fact": "I like to watch movies and Gardening."
@@ -482,7 +482,7 @@ window.TEAM_DATA = [
     "Name": "Mayank Sharma",
     "Location": "Jaipur",
     "Workstream": "Master Data Management (MDM)",
-    "Role": "BPO-ACN-MDM-Analyst",
+    "Role": "Analyst",
     "Bio": "I have experience in finance and accounts in for 2.8 years and i have learnt many complex problems and collaborate with the team.",
     "Working Style": "I prefer to work from office so it will help me to gain lots of knowledge and skills and grasp the things and collaboration the things.",
     "Fun Fact": "to explore the new places. Research and reading the news about the capital market."
@@ -505,20 +505,12 @@ window.TEAM_DATA = [
     "Working Style": "8:30 to 9:30 IST is dinner break.",
     "Fun Fact": "Day outing."
   },
-  {
-    "Name": "Vivek Agarwal",
-    "Location": "Jaipur",
-    "Workstream": "Master Data Management (MDM)",
-    "Role": "MDM Tower Lead",
-    "Bio": "I have over 10 years of experience in the Procure-to-Pay (PTP) domain, with deep expertise in Vendor Master Data management within Accounts Payable. I am highly skilled in process optimization, transition management, and the swift stabilization of new workflows. With strong abilities in strategic planning and communication, I ensure the smooth integration and execution of key initiatives.\n\nI am proficient in SAP S/4HANA, ServiceNow, PeopleSoft, Oracle, Coupa, and Microsoft Office, leveraging these platforms to enhance business efficiency and streamline operational processes.",
-    "Working Style": "I prefer using messaging tools (like Teams) for quick updates and email for detailed information or documentation.",
-    "Fun Fact": "I really enjoy exploring new cuisines and trying my hand at cooking dishes from different cultures. It's both a creative outlet and a way to unwind after work. On weekends, I like to go for long walks or spend time reading historical fiction. I’m also a big fan of tech gadgets and enjoy keeping up with the latest in productivity tools and apps"
-  },
+  
   {
     "Name": "Harsh Agrawal",
     "Location": "Jaipur",
     "Workstream": "Master Data Management (MDM)",
-    "Role": "BPO-ACN-MDM-Analyst",
+    "Role": "Analyst",
     "Bio": "I’m a recent Finance and Accounting graduate, currently working at Accenture as a fresher. I previously interned at a firm where I gained practical experience in accounting and auditing. I’m eager to grow professionally and contribute to projects.",
     "Working Style": "I prefer to work in office rather than at home to put 100% attention on work. My way of working is based on proactive nature where I try to seek every individual detail regarding the work before finishing it. I would like to have the feedback in1:1 rather than in group settings.",
     "Fun Fact": "I love to travel and take pictures of environment or something unique which can be remembered later on."
@@ -551,7 +543,7 @@ window.TEAM_DATA = [
     "Fun Fact": "Playing Badminton."
   },
   {
-    "Name": "DEVASHREE Yeramwar",
+    "Name": "Devashree Yeramwar",
     "Location": "Bangalore",
     "Workstream": "Supply Chain Management (SCM)",
     "Role": "Procurement Practice Associate",
@@ -564,7 +556,7 @@ window.TEAM_DATA = [
     "Location": "Banglore",
     "Workstream": "Supply Chain Management (SCM)",
     "Role": "SCM-REQ TO PO",
-    "Bio": "High \nly skilled and detail oriented procure to pay analyst around 1+ year of experience in managing end to end procurement process. wiling to work as a key player in challenging and creative environment.",
+    "Bio": "Highly skilled and detail oriented procure to pay analyst around 1+ year of experience in managing end to end procurement process. wiling to work as a key player in challenging and creative environment.",
     "Working Style": "work from home",
     "Fun Fact": "Playing Badminton, planting plants on day of every festival."
   },
@@ -572,7 +564,7 @@ window.TEAM_DATA = [
     "Name": "Lavanya K N",
     "Location": "BANGALORE",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "Procurement practice analyst",
+    "Role": "Procurement Practice Analyst",
     "Bio": "I have been working for supply chain department for 6 years, I have a background of core procurement, I use to get quotes from various vendors, preparing bid memorandum for that, negotiating and finalizing the vendor by considering the lead time, least price and specification we required. after sharing the PO to vendor, I use to expediting with them until the material get delivered, also co ordinating with stores and finance to get GRN done and payment.",
     "Working Style": "Work from home",
     "Fun Fact": "I love to read the novels, and I enjoy long walk in the evening everyday this is the only time i available for myself. i prefer to stay at home during weekends."
@@ -644,7 +636,7 @@ window.TEAM_DATA = [
     "Name": "Aditya Gowda",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to Cash Operations Associate",
+    "Role": "Operations Associate",
     "Bio": "I have a total work experience of 3 years and enjoy collaborating with my team to solve complex problems.",
     "Working Style": "I'm flexible",
     "Fun Fact": "I liking exercising"
@@ -660,7 +652,7 @@ window.TEAM_DATA = [
   },
   {
     "Name": "Parinika U Parinika U",
-    "Location": "Banglore",
+    "Location": "Bangalore",
     "Workstream": "Master Data Management (MDM)",
     "Role": "Master data Management (OTC)",
     "Bio": "I have total of 1.8 yrs of experience in OTC MDM before Joining Accenture, i also possess Various tool Knowledge like SAP, SAP Fiori and Service now.\npreviously worked mainly on customer and vendor and also have knowledge about material Master Data.",
@@ -671,7 +663,7 @@ window.TEAM_DATA = [
     "Name": "Sowmya Dr",
     "Location": "Bangalore",
     "Workstream": "Hydrocarbon Accounting (HCA)",
-    "Role": "HCA Analyst",
+    "Role": "Analyst",
     "Bio": "I am new to the R2R process, and I wish to acquire knowledge in this area. Before i have been working in the Procurement operation for 2.8 Months, 6 Years i have been working in Data Consultant. I have background in SAP ERP, SAP S4 HENA and Analyst field, which has helped me to understand the process",
     "Working Style": "I would prefer to work from home, so that I can give more time to my baby. I like receiving feedback 1:1 rather than in group settings",
     "Fun Fact": "I love to spend time with my family and watching movies, reading story books"
@@ -680,7 +672,7 @@ window.TEAM_DATA = [
     "Name": "Karan Chitnis",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "BPO-ACN-O2C-Analyst",
+    "Role": "Analyst",
     "Bio": "I bring 5 years of experience in the Analyst and operations domain space, where I thrive on solving complex operational challenges alongside my team. I enjoy streamlining processes, identifying gaps, and building structured solutions that improve accuracy and efficiency. Known for my collaborative approach, I’m committed to driving results through clear communication and consistent execution.",
     "Working Style": "I work best with clarity and structure—having clear goals, timelines, and ownership helps me stay aligned and deliver effectively. I value open, direct communication and prefer feedback in 1:1 setting where we can have honest, solution-focused conversations. I’m always open to jumping on a quick call to resolve blockers and enjoy working with teammates who are proactive and transparent.",
     "Fun Fact": "I love exploring new places through hiking and travel—mountains and nature trails are my go-to for recharging. I'm also a big fan of movies, especially thrillers and dramas, and enjoy discovering new music across genres during downtime."
@@ -689,7 +681,7 @@ window.TEAM_DATA = [
     "Name": "Eshwarappa G T",
     "Location": "Bangalore",
     "Workstream": "Master Data Management (MDM)",
-    "Role": "MDM Analyst",
+    "Role": "Analyst",
     "Bio": "With over 8 years of experience in core finance and accounting, I bring a strong background in Financial Planning & Analysis (FP&A) in Accenture, previously in Finance IT procurement and the Cost management handling critical finance operations and innovations.",
     "Working Style": "I work enthusiastic and skillfully to reach the company goals and team goals and I would like to receive feedback 1:1 rather than in group settings.",
     "Fun Fact": "I love to do bike riding, playing cricket and attending family / friends get together functions."
@@ -698,7 +690,7 @@ window.TEAM_DATA = [
     "Name": "Sabarinathar Ravi",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "BPO-ACN-O2C-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been actively contributing to the Order-to-Cash (OTC) process for the past 1 year and 11 months, during which I have demonstrated strong teamwork skills in addressing and overcoming the various challenges we face as a team. My solid background in Order-to-Cash operations has provided me with a deep understanding of collection activities and the key financial processes involved in managing payments and receivables on a daily basis. Through collaboration, problem-solving, and a keen focus on efficiency, I have successfully supported the team in streamlining workflows and maintaining seamless financial operations.",
     "Working Style": "I appreciate a collaborative work environment and thrive in settings where clear communication and teamwork are valued. I work best when expectations and deadlines are clearly defined, and I appreciate proactive communication to avoid last-minute changes. I enjoy working with a team and appreciate an open environment where ideas are exchanged freely.",
     "Fun Fact": "I have a deep passion for sports, thriving in the energy of competition. Basketball, football, and badminton keep me active and motivated. Every game challenges my skills and pushes me to improve. Sports are not just a hobby for me—they are a way of life."
@@ -707,7 +699,7 @@ window.TEAM_DATA = [
     "Name": "Kiran Venkatesh",
     "Location": "Bengaluru",
     "Workstream": "Hydrocarbon Accounting (HCA)",
-    "Role": "BPO-ACN-HCA-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the R2R domain for 6 years and enjoying continuing with the same spirit to explore in Finance and Accounting.",
     "Working Style": "I am preferring to work on mid shift of IST.",
     "Fun Fact": "I love to be travelling and Swimming"
@@ -716,7 +708,7 @@ window.TEAM_DATA = [
     "Name": "Muralidhar Kantharaj",
     "Location": "Bengaluru",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "BPO-ACN-O2C-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in Order-to-Cash domain for 5 years and a solid foundation in accounting and finance, I have a deep understanding of end-to-end process nuances. I thrive in collaborative environments, working closely with cross-functional teams to solve complex challenges and drive continuous process improvements.",
     "Working Style": "I am flexible and adaptable, comfortable working at any time and readily adjusting to any environment. My schedule is not restricted by typical working hours.",
     "Fun Fact": "In my free time, I enjoy taking long rides, and spending quality time with my family is something I truly cherish."
@@ -725,7 +717,7 @@ window.TEAM_DATA = [
     "Name": "Sirisha Challagali",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "BPO-ACN-O2C-Analyst\n12703 - FSS Transformation",
+    "Role": "Analyst",
     "Bio": "I have 4.2 years of experience in Accounts Receivable (AR) Billing, having worked as a Billing Analyst and Accountant. My responsibilities included resolving client escalations via calls, handling dispute management, supporting client engagement initiatives, and preparing daily operational reports to ensure billing accuracy and process efficiency. I also have basic knowledge of the Order-to-Cash (OTC) cycle, contributing to a broader understanding of end-to-end receivables management.",
     "Working Style": "I am flexible and adaptable, comfortable working across various schedules and adjusting easily to different environments. My availability is not limited by standard working hours, allowing me to accommodate diverse team needs and priorities.",
     "Fun Fact": "I enjoy exploring new places, traveling with my loved ones, and spending time gardening, which is one of my favorite hobbies."
@@ -734,7 +726,7 @@ window.TEAM_DATA = [
     "Name": "Varuni Krishnakanth Kini",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "BPO-ACN-O2C-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the O2C space for 5 years. I have a background in order management and finance which has understand the intricacies of our processes",
     "Working Style": "Flexible",
     "Fun Fact": "Painting, Reading"
@@ -743,7 +735,7 @@ window.TEAM_DATA = [
     "Name": "Mazhar Pasha",
     "Location": "Bangalore",
     "Workstream": "Master Data Management (MDM)",
-    "Role": "BPO-ACN-MDM-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in to OTC for 3 years now and also carrying an handful of experience in Data Management. I carry a vast experience in Banking and accounting which is relevant, makes me easy to understand the process and also helps in exploring.",
     "Working Style": "“My work style emphasizes clear communication to ensure smooth project execution.”",
     "Fun Fact": "In Free time Investing time on Self Development and in some time spending time Playing Video Games"
@@ -752,7 +744,7 @@ window.TEAM_DATA = [
     "Name": "RAHUL KUMAR",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "BPO-ACN-O2C-Analyst",
+    "Role": "Analyst",
     "Bio": "Experienced O2C Collections Analyst and Key Account Manager with 3.5 years of experience focus on optimizing cash flow, reducing DSO, and improving AR performance. Skilled in AR aging analysis, dispute resolution, payment negotiations, and unapplied cash management. Proficient in ERP/CRM systems and reporting, with strong support for period-end close. Known for clear communication, relationship-building, and driving process improvements that support business growth and compliance.",
     "Working Style": "I start my workday around 7:00 PM and wrap up by 4:30 PM (IST). I do my best work in environments with well-defined goals, organized processes, and a strong sense of shared responsibility.",
     "Fun Fact": "I am a movie lover and enjoy watching new films on weekends."
@@ -761,7 +753,7 @@ window.TEAM_DATA = [
     "Name": "Nisha Choudhary",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "BPO-ACN-O2C-Analyst",
+    "Role": "Analyst",
     "Bio": "With over six years of hands-on experience in the Domestic and U.S. sales industry, I have honed my skills in customer acquisition, relationship management, and strategic sales planning. My expertise spans across various sectors, where I have consistently delivered results by building strong customer connections and exceeding sales targets. Throughout my career, I have worked collaboratively with cross-functional teams to ensure client satisfaction and drive company profitability. I am always eager to take on new challenges, adapt to changing market trends, and continue growing professionally in the ever-evolving field of sales.",
     "Working Style": "I prefer clear, concise communication and enjoy working with a team that respects deadlines and provides updates in advance when possible. I am open to both email and messaging but if something is time-sensitive, a quick message over the right platform is best.",
     "Fun Fact": "One of my greatest hobbies is reading novels. There's something magical about getting lost in a good book, whether it's exploring different worlds, understanding diverse characters, or discovering new perspectives. I enjoy a wide range of genres, from historical fiction to fantasy, and I find that reading not only helps me relax but also enhances my creativity and critical thinking. Each novel is an opportunity to expand my imagination and connect with stories that leave a lasting impression."
@@ -779,7 +771,7 @@ window.TEAM_DATA = [
     "Name": "Narasimha Pradeep",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Data Control - Manager",
+    "Role": "Data Control Manager",
     "Bio": "I have been with Accenture spanning 18+ years. Have been working in OTC domain predominantly and instilled the knowledge of various sub processes across OTC. This experience has helped me in acquiring the required process knowledge across multiple projects. I have an experience of handling larger team (As a Span lead ~180 team members) and would be able to bring the expertise and experience gained across these assignments.",
     "Working Style": "My prefer ways of working is in US shift and in Hybrid model.",
     "Fun Fact": "I love playing Cricket on weekends and watch TV for some time."
@@ -788,7 +780,7 @@ window.TEAM_DATA = [
     "Name": "Deekshith Prashath",
     "Location": "Bengaluru",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "BPO-ACN-O2C-Analyst",
+    "Role": "Analyst",
     "Bio": "Seasonal Professional with 7 years of Experience with multiple domain and quick absorber when it comes to gaining knowledge.",
     "Working Style": "Flexible",
     "Fun Fact": "Professional Gamer & Professional Bike Rider"
@@ -797,16 +789,16 @@ window.TEAM_DATA = [
     "Name": "Rusyed Ahamed I",
     "Location": "Banglore",
     "Workstream": "Master Data Management (MDM)",
-    "Role": "BPO-ACN-MDM-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in R2R for about 2 years before joining Accenture, I was assigned a role in Intercompany Transactions, Bank Reconciliation, Application Reconciliation, month end close Activities and other Adhoc requests",
     "Working Style": "I appreciate feedbacks on regular basis that would help me to learn and dedicate more to the process",
     "Fun Fact": "I love playing football and table tennis"
   },
   {
-    "Name": "CHETAN SONDUR",
+    "Name": "Chetan Sondur",
     "Location": "Bengaluru",
     "Workstream": "Hydrocarbon Accounting (HCA)",
-    "Role": "BPO-ACN-HCA-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the R2R space for 6.9 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance.",
     "Working Style": "I like to work at 12:30 PM IST to 9:30PM IST (Midday shift)",
     "Fun Fact": "I love playing football"
@@ -842,7 +834,7 @@ window.TEAM_DATA = [
     "Name": "Kanchan Sharma",
     "Location": "Jaipur",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Record to Report Ops Senior Analyst",
+    "Role": "Ops Senior Analyst",
     "Bio": "I have 9.6 years of experience, including 7 years at my previous org. where I worked with one of Australia's leading banks. Over the years, I've gained exposure across three verticals -consumer banking, digital banking and finance (R2R)- giving me a well-rounded background.",
     "Working Style": "I like working with clear goals, staying organised, and collaborating with teammates. I'm flexible, and open to feedback, and enjoy learning along the way.",
     "Fun Fact": "I enjoy staying fit and exploring ways to maintain healthy skin and body. I like binge-watching good series in my free time."
@@ -851,7 +843,7 @@ window.TEAM_DATA = [
     "Name": "Sahil Sharma",
     "Location": "Jaipur",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Record to Report Ops Associate",
+    "Role": "Ops Associate",
     "Bio": "I work in Record to Report profile as an Associate, specializing in Month End Close Activities, Fixed Asset Accounting, Intercompany Accounting, Balance Sheet Reconciliations, Cash Application and Accounts Receivables. My role demands accuracy and deep understanding of Accounting Principles. With a structured approach, I deliver high-quality work, maintaining strong client relationships and ensuring seamless integration of new business units. My commitment to excellence positions me as a reliable and dynamic professional.",
     "Working Style": "I value structured processes and clear communication in a team setting. I work best when expectations are well defined, and timelines are respected. I'm detailed oriented and take ownership of my responsibilities. I appreciate regular feedback, and I am always open to learning and adopting best practices.",
     "Fun Fact": "In my downtime, I enjoy travelling to nearby cities and discovering local foods and cultures. I also like to binge watch web series related to Crime and historical incidents."
@@ -860,7 +852,7 @@ window.TEAM_DATA = [
     "Name": "Anusha N S",
     "Location": "Bengaluru",
     "Workstream": "Hydrocarbon Accounting (HCA)",
-    "Role": "BPO-ACN-HCA-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the R2R domain for a year and enjoy myself in collaborating with the team. I have a background in Finance and HR which has helped in understanding the process.",
     "Working Style": "I am preferred to work on mid shift IST.",
     "Fun Fact": "I love to travel on the weekends by capturing all the little moments of my life."
@@ -875,10 +867,10 @@ window.TEAM_DATA = [
     "Fun Fact": "I love to travel out stations on weekend.\nAnd love to cook"
   },
   {
-    "Name": "NITESH JANGID",
+    "Name": "Nitesh Jangid",
     "Location": "Bangalore",
     "Workstream": "Hydrocarbon Accounting (HCA)",
-    "Role": "BPO-ACN-HCA-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the R2R space for 4 years and I have master's degree (MBA) in finance.",
     "Working Style": "7:00pm to 4:00am",
     "Fun Fact": "I love Table tennis, Explore of New software tools"
@@ -887,7 +879,7 @@ window.TEAM_DATA = [
     "Name": "Naveen Kumawat",
     "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to Cash Operations Analyst",
+    "Role": "Operations Analyst",
     "Bio": "I have been working in the OTC for 5 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.'",
     "Working Style": "7:30am to 4:30pm",
     "Fun Fact": "I am music lover, and I would like to play cricket."
@@ -905,7 +897,7 @@ window.TEAM_DATA = [
     "Name": "Mohit Sharma",
     "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "O2C Operations Associate",
+    "Role": "Operations Associate",
     "Bio": "I have been working in the O2C space for 3 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.",
     "Working Style": "I am available from 7:30am to 4:30pm MST.",
     "Fun Fact": "I love to play Cricket and Volleyball."
@@ -914,7 +906,7 @@ window.TEAM_DATA = [
     "Name": "Syed Mohammad Jaffar",
     "Location": "Bangalore",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to Cash Operations Analyst",
+    "Role": "Operations Analyst",
     "Bio": "With 14+ years of experience, including 10+ years at Accenture, I’ve contributed to\ndiverse for Multiple clients within the Organization. Key achievements include excelling\nin Customer Master Data Management during my experience in Bluebird Operations\nproject (April 2018 – March 2025) and optimizing billing processes to ensure accuracy\nand prevent discrepancies. Profcient in enterprise applications such as SAP, Oracle,\nLMS, Salesforce, and TSYS, I deliver solutions that enhance operational efficiency.",
     "Working Style": "I Preferred working from Home",
     "Fun Fact": "Play Snooker"
@@ -923,7 +915,7 @@ window.TEAM_DATA = [
     "Name": "Dheeraj Arora",
     "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order To Cash Operations New Associate",
+    "Role": "Associate",
     "Bio": "I am a motivated and detail-oriented B.Com graduate currently pursuing my MBA with a specialization in Finance. With a strong academic foundation in accounting, financial management, and business principles, I am eager to begin my professional journey in the accounts and finance domain. My goal is to apply theoretical knowledge to practical business scenarios, contribute to financial accuracy, and continuously learn in a dynamic work environment.",
     "Working Style": "7.30 AM MST to 4.30 P.M MST",
     "Fun Fact": "I love to play Outdoor sports and also prefer regular Team Outings for better Coordination."
@@ -939,7 +931,7 @@ window.TEAM_DATA = [
   },
   {
     "Name": "Mohammad Azharuddin",
-    "Location": "Jaipur-India",
+    "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
     "Role": "Cash Application Analyst",
     "Bio": "I have an experience of 8 years in Order to Cash Domain, started working from Collections then moved to Billing & Adjustments. Also handled Cash Application & Credit Management teams.",
@@ -948,9 +940,9 @@ window.TEAM_DATA = [
   },
   {
     "Name": "sanjay VERMA",
-    "Location": "jaipur",
+    "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to cash operation associate",
+    "Role": "Ops Associate",
     "Bio": "I have been working in the OTC space for 2 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.",
     "Working Style": "I am available from 7:30am to 4:30pm MST.",
     "Fun Fact": "My hobby is playing chess."
@@ -959,7 +951,7 @@ window.TEAM_DATA = [
     "Name": "Tushar Singh Rajawat",
     "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to Cash Operations Associate",
+    "Role": "Operations Associate",
     "Bio": "I have been working in the OTC space for over 2 years, supporting both the US and Canada regions. My role involves managing cash application, ensuring accurate payment application and maintaining strong customer relationships. I enjoy working collaboratively with cross-functional teams to resolve and improve efficiency. This experience has helped me to develop a strong understanding regional compliance requirement and sharpen my analytical and communicational skills.",
     "Working Style": "7:30am to 4:30pm MST",
     "Fun Fact": "I love to go hiking on the weekends"
@@ -968,7 +960,7 @@ window.TEAM_DATA = [
     "Name": "Pankaj Mittal",
     "Location": "Jaipur",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Record to Report Ops Analyst",
+    "Role": "Ops Analyst",
     "Bio": "Qualified Cost Accountant with 6 months of hands-on experience in the Record to Report (R2R) domain. Known for strong problem-solving skills, particularly in resolving complex balance sheet issues. Recognized as a “Rising Star” within just two months at a previous organization for delivering impactful solutions and driving process improvements.",
     "Working Style": "I thrive on working with solid facts and deep understanding, and I believe in seamless coordination with the team to achieve the best outcomes.",
     "Fun Fact": "I love to watch Netflix on weekends and explore new places"
@@ -977,7 +969,7 @@ window.TEAM_DATA = [
     "Name": "Monika Yadav",
     "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to Cash Operations Associate",
+    "Role": "Operations Associate",
     "Bio": "I have 3.8 years of experience in OTC profile management, I specialize in billing, fund applications, reversals, and maintenance. I've successfully disbursed funds to clients/carrier via EFT/PI, ensuring seamless transactions. My commerce background in accounting and finance has provided a strong foundation for understanding our processes, allowing me to efficiently manage tasks and deliver high-quality results.",
     "Working Style": "I am most productive when working in a focused environment. I appreciate regular check-ins with my team to ensure I'm on track with my tasks. I'm available to work flexible hours, but I do need to step away for a short period each day to attend to personal matters.",
     "Fun Fact": "I'm an avid traveler and enjoy exploring new cultures. In my leisure time, I like to try out new recipes in the kitchen, I am also very passionate about gardening."
@@ -986,7 +978,7 @@ window.TEAM_DATA = [
     "Name": "Mahendra Singh",
     "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to Cash Operations Associate",
+    "Role": "Operations Associate",
     "Bio": "I have 5 years of experience in O2C process, including order entry and cash application in the US healthcare domain.",
     "Working Style": "7:30 AM to 4:30 PM MST",
     "Fun Fact": "I enjoy playing cricket, which keeps me active. I also like watching political news and current affairs to stay updated with what's happening around the country."
@@ -1067,7 +1059,7 @@ window.TEAM_DATA = [
     "Name": "Brahmananda Panda",
     "Location": "Jaipur",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Record to Report ops Associates",
+    "Role": "Record to Report Ops Associate",
     "Bio": "With three years of experience in the finance and accounts domain, I specialize in managing cash and bank open items, bank reconciliation, and cash pool reconciliation. My expertise extends to supporting period-end close activities, ensuring accurate financial reporting and streamlined processes. Passionate about maintaining financial integrity and efficiency, I bring a detail-oriented approach to every task.",
     "Working Style": "I prefer receiving constructive feedback in 1:1 setting rather than in group meetings. I appreciate public recognition for good work—it helps motivate me.",
     "Fun Fact": "Cricket isn't just a game for me—it's a passion that fuels my spirit, sharpens my focus, and brings me endless joy every time I step onto the field."
@@ -1076,7 +1068,7 @@ window.TEAM_DATA = [
     "Name": "Ghanshyam Ghanshyam",
     "Location": "JAIPUR",
     "Workstream": "Record to Report (R2R)",
-    "Role": "FIXED ASSEST ACCOUNTING ASSOCIATE",
+    "Role": "Fixed Asset Accounting Associate",
     "Bio": "I have been working in the R2R space for 4 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our process.",
     "Working Style": "I thrive on collaboration and enjoy brainstorming sessions, so feel free to loop me in on early-stage discussions.",
     "Fun Fact": "love to enjoy playing football"
@@ -1085,7 +1077,7 @@ window.TEAM_DATA = [
     "Name": "Vishakha Gupta",
     "Location": "Jaipur",
     "Workstream": "Procure to Pay (P2P)",
-    "Role": "BPO-ACN-P2P-Analyst-Canada Payments",
+    "Role": "Analyst",
     "Bio": "I have 2.5 years of experience in Accounts Payable, focusing on invoice processing, vendor management, and reconciliations. I enjoy working with my team to improve efficiency and ensure accuracy in daily operations.",
     "Working Style": "I prefer open communication and clear expectations. I appreciate receiving feedback in 1:1 setting, as it helps me focus on personal growth. I’m most productive with a mix of independent work time and team collaboration, and I value mutual respect for work-life balance.",
     "Fun Fact": "I love to travel and reading novels."
@@ -1121,7 +1113,7 @@ window.TEAM_DATA = [
     "Name": "Umang Agarwal",
     "Location": "Jaipur",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Record to Report ops Associate",
+    "Role": "Record to Report Ops Associate",
     "Bio": "I have been working in the Various domains like O2C, P2P and enjoy collaborating with the team to solve the problems and always active to learn the new things. I have a background in accounting and finance, which has helped me to understand the intricacies of our processes.",
     "Working Style": "I take responsibility for my work and strive to deliver high-quality outcomes within deadlines. I approach tasks with a structured and detail-oriented perspective, ensuring accuracy and compliance.",
     "Fun Fact": "I love to draw the portraits and love to travel"
@@ -1139,16 +1131,16 @@ window.TEAM_DATA = [
     "Name": "Priya Yadav",
     "Location": "JAIPUR",
     "Workstream": "Record to Report (R2R)",
-    "Role": "FIXED ASSET ACCOUNTING ANALYST",
+    "Role": "Analyst",
     "Bio": "I HAVE EXPERIENCE OF 1 YEAR IN GENERAL ACCOUNTING AND TAXATION .",
     "Working Style": "7:30 A.M. TO 5:00 P.M.",
     "Fun Fact": "I LOVE COOKING"
   },
   {
-    "Name": "RICHA VERMA",
+    "Name": "Richa Verma",
     "Location": "Jaipur, RJ",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Bank Reconciliation - Associate",
+    "Role": "Bank Reconciliation Associate",
     "Bio": "I have been working in the R2R (Record to Report) space for 4 years and enjoy collaborating with my team to solve complex problems. My background in accounting and finance has equipped me with a deep understanding of the intricacies of our processes.",
     "Working Style": "I thrive in collaborative environments and enjoy brainstorming sessions to tackle challenges, I appreciate clear and concise communication, especially when discussing complex issues.",
     "Fun Fact": "I love traveling and exploring new places, immersing myself in different cultures and experiences. Additionally, I enjoy painting, which allows me to express my creativity and unwind. Whether it's capturing the beauty of a landscape or experimenting with abstract designs, painting is a wonderful way for me to relax and recharge."
@@ -1166,7 +1158,7 @@ window.TEAM_DATA = [
     "Name": "Himanshu Tinani",
     "Location": "Jaipur",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Bank reconciliation accounting associates.",
+    "Role": "Associate",
     "Bio": "I have been working for 3 years and enjoying to learn the new thing, feeling good to take more challenges and resolving that. I prefer to work with team so that can things have been done easily.\nI have background of accounting.",
     "Working Style": "I like to work with team. I am a quick learner and applying the things quickly. I like receiving feedback.",
     "Fun Fact": "I love to play cricket on weekends."
@@ -1181,10 +1173,10 @@ window.TEAM_DATA = [
     "Fun Fact": "I like play games and chill. I like to travel or go for hike."
   },
   {
-    "Name": "NOFIYA K KAMAR",
+    "Name": "Nofiya K Kamar",
     "Location": "Bengaluru",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Job title\nHCA-Inventory Analyst",
+    "Role": "Analyst",
     "Bio": "I am an experienced accounting professional with over 7 years of expertise in managing financial records, P&L review, reconciliations, and ensuring compliance with regulatory standards. My background includes working with diverse industries, handling end-to-end accounting processes, preparing financial statements, and supporting audit functions. I have a strong command of accounting software such as Tally, Sage 100, and I am known for accuracy, integrity, and attention to detail.",
     "Working Style": "7.30 AM MST to 4.30 P.M MST",
     "Fun Fact": "Outside of my professional life, I am passionate about writing, reading, gardening, and cooking. These hobbies not only help me stay balanced and creative but also inspire my personal blog, where I regularly share my thoughts, experiences, and reflections. Writing has become a meaningful way for me to connect with others and express ideas on both personal and professional topics."
@@ -1199,16 +1191,16 @@ window.TEAM_DATA = [
     "Fun Fact": "I enjoy watching thriller shows and movies, and I love exploring new places on weekends"
   },
   {
-    "Name": "SUCHITA SAHOO",
+    "Name": "Suchita Sahoo",
     "Location": "Bengaluru",
     "Workstream": "Hydrocarbon Accounting (HCA)",
-    "Role": "Hydrocarbon Accounting Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in accounting background with a strong foundation in financial reporting, accounting principles, hands-on experience in managing ledgers and preparing financial statements. I am continuously expanding my skills in areas like tax planning, fund accounting and cost accounting with a long-term goal of becoming a certified public Accountant in finance sector.",
     "Working Style": "I like to maintain a personal and professional work life balance also I respect working hours, especially in cross-time-zone teams.",
     "Fun Fact": "I love to do adventurous things like paragliding to experience the thrill of flying with scenic landscapes."
   },
   {
-    "Name": "RAVI SHANKAR SAIN",
+    "Name": "Ravi Shankar Sain",
     "Location": "JAIPUR",
     "Workstream": "Record to Report (R2R)",
     "Role": "General Accounting Ops Analyst",
@@ -1226,16 +1218,16 @@ window.TEAM_DATA = [
     "Fun Fact": "I like listening to music, cooking and playing indoor games with my sister chitchatting with my friends."
   },
   {
-    "Name": "PRAVEEN KUMAR V",
+    "Name": "Praveen Kumar V",
     "Location": "BENGALURU",
     "Workstream": "Hydrocarbon Accounting (HCA)",
-    "Role": "Record to Report Ops Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the R2R space for 4.9 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.'",
     "Working Style": "I prefer to work day shift 9AM to 6PM IST",
     "Fun Fact": "Play Kabaddi"
   },
   {
-    "Name": "paresh swain",
+    "Name": "Paresh Swain",
     "Location": "Bangaluru",
     "Workstream": "Hydrocarbon Accounting (HCA)",
     "Role": "Inventory Analyst",
@@ -1247,7 +1239,7 @@ window.TEAM_DATA = [
     "Name": "Varun Bhatnagar",
     "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to Cash Operations Specialist",
+    "Role": "Operations Specialist",
     "Bio": "I have been working in the OTC space for 10 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.",
     "Working Style": "7.30 AM to 4.30 PM MST",
     "Fun Fact": "I love to play Snooker."
@@ -1256,16 +1248,16 @@ window.TEAM_DATA = [
     "Name": "Rahul Vijayvargiya",
     "Location": "Jaipur",
     "Workstream": "Record to Report (R2R)",
-    "Role": "R2R OPS Analyst",
+    "Role": "Analyst",
     "Bio": "I have completed my cost and management Accountant since june 2024",
     "Working Style": "“My preferred way of working involves continuous learning and knowledge sharing. I enjoy taking initiative, learning from experienced colleagues, and gradually taking on more responsibility. I’m comfortable working both independently and in teams, and I value constructive feedback to improve and grow professionally.”",
     "Fun Fact": "Travelling, Watching and Playing Cricket, Reading"
   },
   {
-    "Name": "SATYAM Kewat",
+    "Name": "Satyam Kewat",
     "Location": "Jaipur",
     "Workstream": "Order to Cash (O2C)",
-    "Role": "Order to Cash Operations Associate",
+    "Role": "Operations Associate",
     "Bio": "I have been working in cash application for 2 years and have a background in accounting and finance.",
     "Working Style": "I like to work during working hours.",
     "Fun Fact": "I love to play Volleyball and Table Tennis."
@@ -1274,7 +1266,7 @@ window.TEAM_DATA = [
     "Name": "Jaydeep Manna",
     "Location": "Jaipur",
     "Workstream": "Record to Report (R2R)",
-    "Role": "Record to Report Ops Associate",
+    "Role": "Operations Associate",
     "Bio": "Finance professional with 2.10 years of R2R experience at Genpact, specializing in reporting, audit support, and reconciliations. Recognized with multiple awards, including Bronze and GEM, for exceptional performance, client appreciation, and process improvement initiatives",
     "Working Style": "I work night shifts from 7 PM to 4 AM IST and take a dinner break around 10 PM. I prefer getting feedback in one-on-one chats and like having clear instructions for tasks.",
     "Fun Fact": "I enjoy singing, cooking, reading, traveling, and going on treks. Exploring new places and trying different cuisines always excites me, and I love unwinding with music or a good book in my free time."
@@ -1289,7 +1281,7 @@ window.TEAM_DATA = [
     "Fun Fact": "Playing Piano"
   },
   {
-    "Name": "SRIMAN S SRIMAN S",
+    "Name": "Sriman S Sriman S",
     "Location": "Bangalore BDC14B",
     "Workstream": "Hydrocarbon Accounting (HCA)",
     "Role": "BPO-ACN-HCA-Analyst",
@@ -1298,7 +1290,7 @@ window.TEAM_DATA = [
     "Fun Fact": "I love singing, dancing and love to listen to different genres of music."
   },
   {
-    "Name": "V yeshaswini V Yeshaswini",
+    "Name": "V Yeshaswini V Yeshaswini",
     "Location": "bangalore",
     "Workstream": "Hydrocarbon Accounting (HCA)",
     "Role": "BPO-ACN-HCA-Analyst",
@@ -1319,7 +1311,7 @@ window.TEAM_DATA = [
     "Name": "Mohammed Akram",
     "Location": "BDC14B",
     "Workstream": "Record to Report (R2R)",
-    "Role": "BPO-ACN-HCA-Analyst",
+    "Role": "Analyst",
     "Bio": "I have been working in the R2R for 6 years and enjoy collaborating with my team to solve complex problems. I have a background in accounting and finance, which has helped me understand the intricacies of our processes.",
     "Working Style": "I like receiving feedback one to one rather than in group",
     "Fun Fact": "Listing songs & watching movies"
